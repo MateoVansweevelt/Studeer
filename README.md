@@ -1,2 +1,0 @@
-# Studeer
-JavaFX project studeer
